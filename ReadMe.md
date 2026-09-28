@@ -1,8 +1,12 @@
 # SCODE-API-NODEJS
 
-Is a npm Cli that installs a NodeJs Api Server.
+Is a npm Cli that installs a:
 
-Scode-api-nodejs creates a nodejs express api server that you can modify, make your own and upload to your webserver.
+- NodeJs Api Server.
+- React Admin backend
+- React Site frontend
+
+that you can modify, make your own and upload to your webserver.
 
 ## Creater/ Maintainer
 
@@ -12,8 +16,8 @@ Scode-api-nodejs creates a nodejs express api server that you can modify, make y
 
 ## Installation
 
-`npm install -g @scorpiocodig/scode-api-nodejs`
+`npm install -g scode-website`
 
 ## Usage
 
-`npx @scorpiocodig/scode-api-nodejs`
+`npx scode-website`
